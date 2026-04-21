@@ -1,2 +1,1 @@
-# Major-Project
-Youtube transcript summeration
+# Advanced Youtube Transcript Processing and Intelligent Summarization Framework 
